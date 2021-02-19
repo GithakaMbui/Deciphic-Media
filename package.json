@@ -1,0 +1,11 @@
+{
+  "name": "agency",
+  "version": "1.0.0",
+  "description": "A redo of deciphic's web agency website in pure html, js and css",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mbui",
+  "license": "ISC"
+}
